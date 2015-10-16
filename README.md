@@ -1,2 +1,2 @@
 # HelloWorld
-Primeiro programa escrito em C
+Primeiro programa escrito em linguagem de programação C
